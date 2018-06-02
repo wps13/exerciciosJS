@@ -15,6 +15,14 @@ It should return an object like this:
 var nums = [10, -12, 30, -1, -8, 0, 14, -33, 20];
 
 // Write sumPlusMinus() function here
-
+function sumPlusMinus(numbers) {
+  let obj= {
+    plus: 0,
+    minus:0
+  }
+  for(let i=0;i<numbers.length;i++)
+    numbers[i] <0 ? obj.minus+=numbers[i] : obj.plus+= numbers[i]
+  return obj
+}
 console.log(sumPlusMinus(nums));
 // {plus: 74, minus: -54}
