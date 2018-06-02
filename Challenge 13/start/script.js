@@ -15,10 +15,11 @@ var cars = [
 ];
 
 // Write carInfo() function here
-const carInfo =( {brand, price}) =>
+function carInfo( {brand, price})
   {
     let priceC = price <= 20000 ? "Cheap" : "Expensive"
-    let printString = "Price of my new Honda is ${price} $ and it is ${priceC} car"
+    let printString = `Price of my new ${brand} is ${price} $ and it is ${priceC} car`
+    return printString
   }
 
 
