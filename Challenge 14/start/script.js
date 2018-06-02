@@ -28,6 +28,15 @@ var person2 = {
 };
 
 // Write function here
+function shortPerson({name, info, postsQuantity = 0}){
+  let sp = {}
+  sp.n = name
+  sp.c = info.country
+  sp.a = info.age
+  sp.p = postsQuantity
+  return sp
+
+} 
 
 console.log(shortPerson(person1));
 // {n: "Mike", c: "Spain", a: 23, p: 100}
