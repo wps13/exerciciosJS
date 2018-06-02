@@ -5,8 +5,8 @@ Rewrite code below using ES6 Classes
 
 "use strict";
 
-class Fruit {
-  constructor(title, price) {
+var Fruit = class{
+  constructor(title, price){
     this.title = title;
     this.price = price;
   }
@@ -15,7 +15,6 @@ class Fruit {
 ${this.price}$`;
   }
 }
-
 var apple = new Fruit("Apple", 2);
 console.log(apple.priceInfo());
 // Price of one Apple is 2$
