@@ -1,0 +1,48 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Challenge 1/finish/package.json",
+        "Challenge 1/start/package.json",
+        "Challenge 10/finish/package.json",
+        "Challenge 10/start/package.json",
+        "Challenge 11/finish/package.json",
+        "Challenge 11/start/package.json",
+        "Challenge 12/finish/package.json",
+        "Challenge 12/start/package.json",
+        "Challenge 13/finish/package.json",
+        "Challenge 13/start/package.json",
+        "Challenge 14/finish/package.json",
+        "Challenge 14/start/package.json",
+        "Challenge 15/finish/package.json",
+        "Challenge 15/start/package.json",
+        "Challenge 16/finish/package.json",
+        "Challenge 16/start/package.json",
+        "Challenge 17/finish/package.json",
+        "Challenge 17/start/package.json",
+        "Challenge 18/finish/package.json",
+        "Challenge 18/start/package.json",
+        "Challenge 19/finish/package.json",
+        "Challenge 19/start/package.json",
+        "Challenge 2/finish/package.json",
+        "Challenge 2/start/package.json",
+        "Challenge 20/finish/package.json",
+        "Challenge 20/start/package.json",
+        "Challenge 3/finish/package.json",
+        "Challenge 3/start/package.json",
+        "Challenge 4/finish/package.json",
+        "Challenge 4/start/package.json",
+        "Challenge 5/finish/package.json",
+        "Challenge 5/start/package.json",
+        "Challenge 6/finish/package.json",
+        "Challenge 6/start/package.json",
+        "Challenge 7/finish/package.json",
+        "Challenge 7/start/package.json",
+        "Challenge 8/finish/package.json",
+        "Challenge 8/start/package.json",
+        "Challenge 9/finish/package.json",
+        "Challenge 9/start/package.json"
+      ]
+    }
+  }
+}
